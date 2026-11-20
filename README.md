@@ -77,7 +77,7 @@ The TAVARDT Diagnostic Suite is publicly accessible for technical validation, vu
 * [Security Headers Compliance Analyser](https://tools.tavardt.com/au/security-headers-check/): Audits HTTP response headers including CSP, HSTS, X-Frame-Options, and Referrer-Policy.
 * [SEO Spam & Injection Detector](https://tools.tavardt.com/au/seo-spam-detector/): Identifies hidden cloaked links, Japanese keyword injections, and conditional server cloaking.
 * [Public Exposure & Sensitive Files Scanner](https://tools.tavardt.com/au/exposed-files-scanner/): Probes for accessible `.env`, `.git`, database dumps, and server configuration backups.
-* [CMS Vulnerability Scanner](https://tools.tavardt.com/au/cms-vulnerability-scanner/): Detects known CVEs across outdated WordPress core files, plugins, and server dependencies.
+* [CMS Vulnerability Scanner](https://tools.tavardt.com/au/cms-vulnerability-scanner/): Detects known CVEs across outdated CMS core files, plugins, and server dependencies.
 * [Consent Mode v2 & Cookie Compliance Auditor](https://tools.tavardt.com/au/consent-mode-v2-checker/): Verifies Google Consent Mode v2 implementation and statutory Australian Privacy Principles (APPs) compliance.
 * [Core Web Vitals Real-Time Benchmark](https://tools.tavardt.com/au/core-web-vitals-checker/): Measures First Contentful Paint (FCP), Largest Contentful Paint (LCP), and Cumulative Layout Shift (CLS).
 * [Mobile SEO & Viewport Analyser](https://tools.tavardt.com/au/mobile-seo-checker/): Validates responsive layout viewport configurations, font legibility, and tap-target padding.
