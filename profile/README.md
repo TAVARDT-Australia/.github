@@ -4,13 +4,13 @@
   </a>
 </p>
 
-# TAVARDT Australia | Engineering, Cybersecurity & Digital Growth Architecture
+# Engineering, Cybersecurity & Digital Growth Architecture
 
 TAVARDT is a digital engineering consultancy, cyber defence practice, and growth architecture firm delivering mission-critical web applications, proactive threat mitigation, and data-driven client acquisition systems.
 
 This repository serves as the central technical distribution and documentation hub for the Australia operational territory, governed under strict regulatory standards (Privacy Act 1988, Australian Privacy Principles (APPs), Australian Signals Directorate (ASD) Essential Eight cyber security strategies, and Spam Act 2003).
 
----
+***
 
 ## 1. Primary Portals
 
@@ -18,7 +18,7 @@ This repository serves as the central technical distribution and documentation h
 * [TAVARDT Diagnostic & Verification Suite](https://tools.tavardt.com/au/)
 * [Technical Inquiries & Client Governance](https://ag.tavardt.com/au/contact/)
 
----
+***
 
 ## 2. Technical & Strategic Services
 
@@ -73,7 +73,7 @@ This repository serves as the central technical distribution and documentation h
 * [Telegram Operational Infrastructure](https://ag.tavardt.com/au/super-intelligence/telegram/): Secure internal team notification conduits and real-time operational alerting bots.
 * [Instagram DM Conversational Workflows](https://ag.tavardt.com/au/super-intelligence/instagram-dm/): Automated prospect intake, qualifying logic, and direct appointment scheduling.
 
----
+***
 
 ## 3. Proprietary Technical Diagnostic Tooling
 
@@ -101,7 +101,7 @@ The TAVARDT Diagnostic Suite is publicly accessible for technical validation, vu
 * [Broken Link & 404 Scanner](https://tools.tavardt.com/au/broken-link-checker/): Scans internal and outbound links for dead endpoints and DNS resolution failures.
 * [Paid Media ROI & Blended CAC Calculator](https://tools.tavardt.com/au/paid-media-roi-calculator/): Computes customer acquisition cost, return on ad spend (ROAS), and customer lifetime value (LTV).
 
----
+***
 
 ## 4. Technical Governance & Operational Standards
 
@@ -111,7 +111,7 @@ All technical assets and deployments managed within the TAVARDT Australia perime
 * Strict Security Posture: Enforcement of TLS 1.3, strict Content Security Policy (CSP Level 3), HSTS Preload, and automated DNSSEC verification.
 * Regulatory Adherence: Form designs, data ingestion pipelines, and security posture follow the Privacy Act 1988 (Cth), Office of the Australian Information Commissioner (OAIC) directives, and ASD Essential Eight risk mitigation strategies.
 
----
+***
 
 ## 5. Contact & Institutional Inquiries
 
@@ -119,3 +119,7 @@ All technical assets and deployments managed within the TAVARDT Australia perime
 * Technical Tools: [https://tools.tavardt.com/au/](https://tools.tavardt.com/au/)
 * Official Electronic Mail: [contact@tavardt.com](mailto:contact@tavardt.com)
 * Direct Client Intake: [Direct Technical Consultation with Sofia (WhatsApp)](https://wa.me/5584987721775?text=Hello%20Sofia,%20I%20am%20contacting%20you%20via%20the%20TAVARDT%20Australia%20GitHub%20organisation%20regarding%20a%20technical%20inquiry.)
+
+***
+
+© 2026 TAVARDT. All rights reserved.
